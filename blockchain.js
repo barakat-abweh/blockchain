@@ -31,7 +31,9 @@ this.chain.push(newBlock);
 return newBlock;
 
 }//end function 
-
+bitcoin= new Blochchain();
+bitcoin.addNewblockchain(239,"0xz","zzz");
+console.log(bitcoin);
 
 
 
