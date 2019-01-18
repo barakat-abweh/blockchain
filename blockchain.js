@@ -29,7 +29,7 @@ this.newTransactions=[];
 //empty array clear out this entire new transaction array so we can start over for the next block then 
 this.chain.push(newBlock);
 return newBlock;
-
+//  i want to say i will be best in the world
 }//end function 
 bitcoin= new Blochchain();
 bitcoin.addNewblockchain(239,"0xz","zzz");
