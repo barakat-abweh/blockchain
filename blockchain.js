@@ -32,7 +32,7 @@ return newBlock;
 //  i want to say i will be best in the world
 }//end function 
 bitcoin= new Blochchain();
-bitcoin.addNewblockchain(239,"0xz","zzz");
+bitcoin.createNewBlock (239,"0xz","zzz");
 console.log(bitcoin);
 
 
