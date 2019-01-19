@@ -35,6 +35,7 @@ bitcoin= new Blochchain();
 bitcoin.createNewBlock (239,"0xz","zzz");
 console.log(bitcoin);
 
+console.log(bitcoin);
 
 
 
