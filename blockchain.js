@@ -37,6 +37,8 @@ console.log(bitcoin);
 
 console.log(bitcoin);
 console.log(bitcoin);
+console.log(bitcoin);
+
 
 
 
